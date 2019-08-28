@@ -1,0 +1,183 @@
+body{
+  text-align: center;
+}
+.back{
+  background-color: white;
+  width: 100%;
+}
+h1
+{color:#1c5f83;
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 3em;
+  font-weight: bold;
+
+}
+p{
+  margin: 0px;
+  color: #1c5f83;
+}
+nav{
+  background-image: url('images/navback.png');
+  background-size: cover;
+  height: 120px;
+}
+
+a:hover {
+
+ text-decoration: none;
+ color: #1c5f83;
+}
+
+.nav-item{
+  padding: 30px;
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  color:#1c5f83;
+}
+.container{
+
+  max-width:100%;
+  margin: 0px;
+  padding: 0px;
+  display: block
+
+}
+.discover
+{
+ background-color: #7ebea5;
+
+}
+
+.card-header {
+  width: 350px;
+  background-color: #7ebea5;
+   border-bottom: 0px;
+}
+.card-body{
+width: 350px;
+}
+.cardleft{
+margin-left: 200px;
+}
+.cardright
+{
+  margin-left: 800px;
+}
+
+
+ #head1 , #head3 ,#head5
+{
+  margin-left: 200px;
+}
+
+#head2 , #head4 ,#head6
+{
+  margin-left: 800px;
+}
+#mycarousel .carousel-inner .carousel-item >img
+{
+  height: 100VH;
+}
+
+.Aboutus
+{
+background-color: #f3d6a8;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+height: 60%;
+padding: 50px;
+}
+
+.contact
+{
+
+height: 50%;
+padding: 50px;
+color: #7ebea5;
+background-color: #ffffff;
+}
+.fab
+{
+  color: #7ebea5;
+  font-size: 32px;
+  padding :50px;
+
+}
+.send{
+  font-size: 20px;
+  font-weight:bold;
+  color:#1c5f83;
+  margin: 30px;
+
+}
+.formbox
+{
+  margin-left:500px;
+  padding: 50px;
+  background-color: #1c5f83;
+  display: none;
+  width: 400px;
+}
+.fas
+{
+  margin-left:250px;
+  font-size: 30px;
+
+}
+.form-group{
+  text-align: left;
+}
+.btn
+{
+  background-color: #f3d6a8;
+}
+
+.footer
+{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50%;
+  background-color: #1c5f83;
+  padding: 50px;
+}
+.card
+{
+  background-color: #1c5f83;
+  border: 0px;
+  color: #7ebea5;
+}
+.link
+{
+  color: #f3d6a8;
+  font-size:20pt;
+  font-style: oblique;
+  padding: 15px;
+}
+
+#copyriyth
+{
+background-color: #1c5f83;
+color: #f3d6a8;
+text-align: center;
+padding: 30px;
+font-style: italic;
+font-weight: bold;
+}
+.card-deck{
+
+  margin: 50px;
+
+}
+.card-text
+{
+color:white;
+}
+
+.besthotl
+{
+  width: 100%;
+}
